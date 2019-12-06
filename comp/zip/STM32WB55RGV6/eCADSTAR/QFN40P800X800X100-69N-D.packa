@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STM32WB55RGV6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-03-13-11:52:38)
+    (mountForm default
+        (footprintRef "QFN40P800X800X100-69N-D")
+        (spec "System")
+    )
+)

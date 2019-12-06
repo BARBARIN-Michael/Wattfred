@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NX2016SA-32M-EXS00A-CS06465"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-06-21:23:48)
+    (mountForm default
+        (footprintRef "NX2016SA32MEXS00ACS06465")
+        (spec "System")
+    )
+)

@@ -1,0 +1,15 @@
+.691256610002 :1 ;2 Position Wire to Board Terminal Block Horizontal with Board 0.400" (10.16mm) Through Hole
+SHDR4W120P1016_2X2_2032X1830X2940P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 691256610002
+~!Mouser Part Number (710-691256610002)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=710-691256610002)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (691256610002)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/691256610002.pdf)
+~!Height (29.4mm)
+"691256610002"
+1.1!U 3.1!U 2.1!U 4.1!U 

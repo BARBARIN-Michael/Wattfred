@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32WB55RGV6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32WB55RGV6" (!) = "", "QFN40P800X800X100-69N-D", "Quad Flat No-Lead", "511-STM32WB55RGV6", "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32WB55RGV6", "ARM Microcontrollers - MCU Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0 32MHz with 1 Mbyte Flash, BLE, 802.15.4, USB, LCD, AES-256", "https://componentsearchengine.com/Datasheets/1/STM32WB55RGV6.pdf", "1 mm"
+END_PART
+
+END.

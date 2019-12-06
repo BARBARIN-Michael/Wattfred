@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "47206"
+   (description "3.3V dc 1 Output Through Hole PCB Transformer, 7.5W")
+   (family "XFR")
+   (package "47203")
+   (attribute "Datasheet Link" "http://52ebad10ee97eea25d5e-d7d40819259e7d3022d9ad53e3694148.r84.cf3.rackcdn.com/Myrra_Electronic_transformers_datasheet_7.5W_and_10W.pdf")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "MYRRA")
+   (attribute "Manufacturer_Part_Number" "47206")
+   (gate
+    (symbol "47206")
+    (pin "AC/DC_INPUT_1" 1 PS)
+    (pin "AC/DC_INPUT_2" 5 PS)
+    (pin "DC_OUTPUT_+V" 7 PS)
+    (pin "DC_OUTPUT_0V" 9 PS)
+   )
+  )
+  (symbol "47206"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1800 100) (pt 1800 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "47203"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -20.5 17.5)
+      (pt 20.5 17.5)
+      (pt 20.5 -17.5)
+      (pt -20.5 -17.5)
+      (pt -20.5 17.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -20.5 -17.5)
+      (pt 20.5 -17.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 20.5 -17.5)
+      (pt 20.5 17.5)
+      (pt -20.5 17.5)
+      (pt -20.5 -17.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.6)
+     (circle
+      (pt -10.342 -19.163) (pt -9.658 -19.163)
+     )
+    )
+   )
+   (leg 1 (pt -10 -12.5) (padstack 0))
+   (leg 5 (pt 10 -12.5) (padstack 0))
+   (leg 7 (pt 5 12.5) (padstack 0))
+   (leg 9 (pt -5 12.5) (padstack 0))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.3))
+    (pad (layer INNER) (round 1.3))
+    (pad (layer BCOP) (round 1.3))
+   )
+  )
+ )
+)

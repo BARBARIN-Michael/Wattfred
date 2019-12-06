@@ -1,0 +1,9 @@
+Manufacturer=Dialight
+PartNumber=599-0181-007F
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=2.1
+Released=2019-02-21 04:47:50
+Downloaded=2019-09-08 16:20:35
+3D=N

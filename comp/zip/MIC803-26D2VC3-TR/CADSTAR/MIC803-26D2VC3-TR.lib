@@ -1,0 +1,16 @@
+.MIC803-26D2VC3-TR :1 ;Supervisory Circuits
+SOT65P210X100-3N
+*STM IC
+*NGS
+*PLB 1="GND" 2="'RESET'" 3="VCC"
+*MXP 3
+*DFN MIC803-26D2VC3-TR
+~!Mouser Part Number (998-MIC803-26D2VC3TR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=998-MIC803-26D2VC3TR)
+~!Manufacturer_Name (Micrel)
+~!Manufacturer_Part_Number (MIC803-26D2VC3-TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/MIC803-26D2VC3-TR.pdf)
+~!Height (1mm)
+~!3D_Model (MIC803-26D2VC3-TR)
+MIC803-26D2VC3-TR
+1.1!U 2.1!U 3.1!U 

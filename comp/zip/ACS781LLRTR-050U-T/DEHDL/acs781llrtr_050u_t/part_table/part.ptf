@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACS781LLRTR_050U_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "ACS781LLRTR-050U-T" (!) = "", "ACS781LLRTR050BT", "Other", "", "", "Allegro Microsystems ACS781LLRTR-050U-T, Current Sensor 5 + 2 Tab-Pin, PSOF", "https://www.allegromicro.com/~/media/Files/Datasheets/ACS781-Datsaheet.ashx", "1.5 mm"
+END_PART
+
+END.

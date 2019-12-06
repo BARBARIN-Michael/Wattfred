@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S25FL064LABNFI041'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cypress Semiconductor", "S25FL064LABNFI041" (!) = "", "SON80P400X400X60-9N", "Small Outline No-lead", "727-S25FL064LANFI041", "https://www.mouser.com/Search/Refine.aspx?Keyword=727-S25FL064LANFI041", "Cypress Semiconductor S25FL064LABNFI041 NOR 64Mbit Flash Memory Chip, 8-Pin USON", "https://componentsearchengine.com/Datasheets/1/S25FL064LABNFI041.pdf", "0.6 mm"
+END_PART
+
+END.

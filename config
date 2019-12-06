@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@git.cadlab.io:AlphaBlackBee/Wattfred.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

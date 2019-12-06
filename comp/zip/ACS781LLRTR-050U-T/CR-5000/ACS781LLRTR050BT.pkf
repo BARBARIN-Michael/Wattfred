@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ACS781LLRTR050BT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ACS781LLRTR050BT")
+        (spec "default")
+    )
+)

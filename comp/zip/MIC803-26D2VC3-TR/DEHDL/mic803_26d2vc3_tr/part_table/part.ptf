@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC803_26D2VC3_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micrel", "MIC803-26D2VC3-TR" (!) = "", "SOT65P210X100-3N", "SOT23 (3-Pin)", "998-MIC803-26D2VC3TR", "https://www.mouser.com/Search/Refine.aspx?Keyword=998-MIC803-26D2VC3TR", "Supervisory Circuits", "https://componentsearchengine.com/Datasheets/1/MIC803-26D2VC3-TR.pdf", "1 mm"
+END_PART
+
+END.

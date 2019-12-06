@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '599_0181_007F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Dialight", "599-0181-007F" (!) = "", "LEDC2012X70N", "LEDs Chip", "645-599-0181-007F", "https://www.mouser.com/Search/Refine.aspx?Keyword=645-599-0181-007F", "Standard LEDs - SMD SMD 0805 GREEN", "https://componentsearchengine.com/Datasheets/1/599-0181-007F.pdf", "0.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,15 @@
+.599-0181-007F :1 ;Standard LEDs - SMD SMD 0805 GREEN
+LEDC2012X70N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 599-0181-007F
+~!Mouser Part Number (645-599-0181-007F)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=645-599-0181-007F)
+~!Manufacturer_Name (Dialight)
+~!Manufacturer_Part_Number (599-0181-007F)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/599-0181-007F.pdf)
+~!Height (0.7mm)
+"599-0181-007F"
+1.1!U 2.1!U 

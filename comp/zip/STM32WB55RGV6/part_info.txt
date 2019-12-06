@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32WB55RGV6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=69
+Version=1.1
+Released=2019-03-13 11:52:38
+Downloaded=2019-09-05 17:44:21
+3D=Y

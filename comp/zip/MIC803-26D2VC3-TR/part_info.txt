@@ -1,0 +1,9 @@
+Manufacturer=Micrel
+PartNumber=MIC803-26D2VC3-TR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2018-02-25 18:26:59
+Downloaded=2019-09-08 16:40:56
+3D=Y

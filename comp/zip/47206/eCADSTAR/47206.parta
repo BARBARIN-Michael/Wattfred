@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_495561"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-15-11:29:42)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "5" (symbPinId 2) (portType INOUT))
+        (port "7" (symbPinId 3) (portType INOUT))
+        (port "9" (symbPinId 4) (portType INOUT))
+    )
+    (property "symbolName" "47206")
+)
+
+
+(pinAssign "ECS_495561"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-15-11:29:42)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "AC/DC_INPUT_1") (portType INOUT))
+        (port "5" (symbPinId 2) (portName "AC/DC_INPUT_2") (portType INOUT))
+        (port "7" (symbPinId 3) (portName "DC_OUTPUT_+V") (portType INOUT))
+        (port "9" (symbPinId 4) (portName "DC_OUTPUT_0V") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_495561")
+                (port "1" (match "1"))
+                (port "5" (match "5"))
+                (port "7" (match "7"))
+                (port "9" (match "9"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "47206")
+)
+
+
+(part "47206"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-15-11:29:42)
+    (utime 2018-06-06-11:10:46)
+    (packageRef "47206")
+    (pinAssignRef "ECS_495561")
+    (interface
+        (port "1" (symbPinId 1) (portName "AC/DC_INPUT_1") (portType INOUT))
+        (port "5" (symbPinId 2) (portName "AC/DC_INPUT_2") (portType INOUT))
+        (port "7" (symbPinId 3) (portName "DC_OUTPUT_+V") (portType INOUT))
+        (port "9" (symbPinId 4) (portName "DC_OUTPUT_0V") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "T")
+    (property "description" "3.3V dc 1 Output Through Hole PCB Transformer, 7.5W")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "MYRRA")
+    (property "Manufacturer_Part_Number" "47206")
+    (property "Datasheet_Link" "http://52ebad10ee97eea25d5e-d7d40819259e7d3022d9ad53e3694148.r84.cf3.rackcdn.com/Myrra_Electronic_transformers_datasheet_7.5W_and_10W.pdf")
+)
+
+

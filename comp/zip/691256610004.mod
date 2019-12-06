@@ -1,0 +1,92 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+691256610004
+$EndINDEX
+$MODULE 691256610004
+Po 0 0 0 15 00000000 00000000 ~~
+Li 691256610004
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0.04 -8.415 1 1 0 0.05 N V 21 "691256610004"
+T1 0.775 13.205 1 1 0 0.05 N V 21 "VAL**"
+DS -20.32 -6.68 20.32 -6.68 0.127 21
+DS 20.32 -6.68 20.32 11.62 0.127 21
+DS 20.32 11.62 -20.32 11.62 0.127 21
+DS -20.32 11.62 -20.32 -6.68 0.127 21
+DP 0 0 0 0 4 0.127 26
+Dl -20.57 -6.93
+Dl 20.57 -6.93
+Dl 20.57 11.87
+Dl -20.57 11.87
+T2 -15.240000 0.000000 1 1 0 .05 N V 48 "1"
+$PAD
+Sh "1" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -15.24 -5.08
+$EndPAD
+$PAD
+Sh "A1" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -15.24 5.08
+$EndPAD
+$PAD
+Sh "2" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "A2" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "3" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$PAD
+Sh "A3" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "4" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 15.24 -5.08
+$EndPAD
+$PAD
+Sh "A4" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 15.24 5.08
+$EndPAD
+$EndMODULE 691256610004

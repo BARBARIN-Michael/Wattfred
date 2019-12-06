@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '691256610002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "691256610002" (!) = "", "SHDR4W120P1016_2X2_2032X1830X2940P", "Header, Shrouded", "710-691256610002", "https://www.mouser.com/Search/Refine.aspx?Keyword=710-691256610002", "2 Position Wire to Board Terminal Block Horizontal with Board 0.400" (10.16mm) Through Hole", "https://componentsearchengine.com/Datasheets/1/691256610002.pdf", "29.4 mm"
+END_PART
+
+END.

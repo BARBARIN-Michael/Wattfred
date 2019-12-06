@@ -1,0 +1,16 @@
+.S25FL064LABNFI041 :1 ;Cypress Semiconductor S25FL064LABNFI041 NOR 64Mbit Flash Memory Chip, 8-Pin USON
+SON80P400X400X60-9N
+*STM IC
+*NGS
+*PLB 1="CS#" 2="S O / IO 1" 3="W P # / IO 2" 4="VSS" 5="S I / IO 0" 6="SCK" 7="IO 3 / R E S E T #" 8="VCC" 9="GND"
+*MXP 9
+*DFN S25FL064LABNFI041
+~!Mouser Part Number (727-S25FL064LANFI041)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=727-S25FL064LANFI041)
+~!Manufacturer_Name (Cypress Semiconductor)
+~!Manufacturer_Part_Number (S25FL064LABNFI041)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/S25FL064LABNFI041.pdf)
+~!Height (0.6mm)
+~!3D_Model (S25FL064LABNFI041)
+S25FL064LABNFI041
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=ACS781LLRTR-050U-T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=7
+Version=1.1
+Released=2019-05-31 08:02:27
+Downloaded=2019-09-08 16:15:56
+3D=Y

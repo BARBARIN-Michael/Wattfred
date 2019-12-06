@@ -1,0 +1,114 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MIC803-26D2VC3-TR"
+   (description "Supervisory Circuits")
+   (family "ANA")
+   (package "SOT65P210X100-3N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/MIC803-26D2VC3-TR.pdf")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "998-MIC803-26D2VC3TR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=998-MIC803-26D2VC3TR")
+   (attribute "Manufacturer_Name" "Micrel")
+   (attribute "Manufacturer_Part_Number" "MIC803-26D2VC3-TR")
+   (gate
+    (symbol "MIC803-26D2VC3-TR")
+    (pin "GND" 1 PS)
+    (pin "$RESET$" 2 PS)
+    (pin "VCC" 3 PS)
+   )
+  )
+  (symbol "MIC803-26D2VC3-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT65P210X100-3N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.775 1.375)
+      (pt 1.775 1.375)
+      (pt 1.775 -1.375)
+      (pt -1.775 -1.375)
+      (pt -1.775 1.375))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.625 1.012)
+      (pt 0.625 1.012)
+      (pt 0.625 -1.012)
+      (pt -0.625 -1.012)
+      (pt -0.625 1.012))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.625 0.362)
+      (pt 0.025 1.012))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.025 1.012)
+      (pt 0.025 1.012)
+      (pt 0.025 -1.012)
+      (pt -0.025 -1.012)
+      (pt -0.025 1.012))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.525 1.15)
+      (pt -0.375 1.15))))
+   (leg 1 (pt -0.95 0.65) (padstack 0))
+   (leg 2 (pt -0.95 -0.65) (padstack 0))
+   (leg 3 (pt 0.95 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.5 1.15 0 0 0))
+   )
+   (model "MIC803-26D2VC3-TR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

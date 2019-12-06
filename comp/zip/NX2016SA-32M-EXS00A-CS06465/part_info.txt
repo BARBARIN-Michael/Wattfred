@@ -1,0 +1,9 @@
+Manufacturer=NDK
+PartNumber=NX2016SA-32M-EXS00A-CS06465
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2018-07-06 21:23:48
+Downloaded=2019-09-08 16:15:31
+3D=N

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "599-0181-007F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-17-04:31:17)
+    (mountForm default
+        (footprintRef "LEDC2012X70N")
+        (spec "System")
+    )
+)

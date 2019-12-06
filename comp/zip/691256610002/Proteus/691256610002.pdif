@@ -1,0 +1,112 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "691256610002"
+   (description "2 Position Wire to Board Terminal Block Horizontal with Board 0.400" (10.16mm) Through Hole")
+   (family "CON")
+   (package "SHDR4W120P1016_2X2_2032X1830X2940P")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/691256610002.pdf")
+   (attribute "Geometry.Height" "29.4mm")
+   (attribute "Mouser Part Number" "710-691256610002")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=710-691256610002")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "691256610002")
+   (gate
+    (symbol "691256610002")
+    (pin "1" 1 PS)
+    (pin "3" 3 PS)
+    (pin "2" 2 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "691256610002"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SHDR4W120P1016_2X2_2032X1830X2940P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -5.43 -6.89)
+      (pt -5.43 12.01)
+      (pt 15.49 12.01)
+      (pt 15.49 -6.89)
+      (pt -5.43 -6.89))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.18 -6.64)
+      (pt -5.18 11.76)
+      (pt 15.24 11.76)
+      (pt 15.24 -6.64)
+      (pt -5.18 -6.64))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -6.64)
+      (pt 15.24 -6.64)
+      (pt 15.24 11.76)
+      (pt -5.18 11.76)
+      (pt -5.18 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 0 10.16) (padstack 0))
+   (leg 3 (pt 10.16 0) (padstack 0))
+   (leg 4 (pt 10.16 10.16) (padstack 0))
+   (padstack 0
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (round 2.1))
+    (pad (layer INNER) (round 2.1))
+    (pad (layer BCOP) (round 2.1))
+   )
+   (padstack 1
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (square 2.1))
+    (pad (layer INNER) (round 2.1))
+    (pad (layer BCOP) (square 2.1))
+   )
+  )
+ )
+)

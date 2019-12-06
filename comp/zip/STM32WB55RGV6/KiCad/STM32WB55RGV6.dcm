@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32WB55RGV6
+D ARM Microcontrollers - MCU Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0 32MHz with 1 Mbyte Flash, BLE, 802.15.4, USB, LCD, AES-256
+K
+F https://componentsearchengine.com/Datasheets/1/STM32WB55RGV6.pdf
+$ENDCMP
+#
+#End Doc Library

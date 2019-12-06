@@ -1,0 +1,15 @@
+.47206 :1 ;3.3V dc 1 Output Through Hole PCB Transformer, 7.5W
+"47203"
+*STM T
+*NGS
+*PLB 1="AC/DC INPUT_1" 5="AC/DC INPUT_2" 7="DC OUTPUT +V" 9="DC OUTPUT 0V"
+*MXP 4
+*DFN 47206
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (MYRRA)
+~!Manufacturer_Part_Number (47206)
+~!Link Datasheet (http://52ebad10ee97eea25d5e-d7d40819259e7d3022d9ad53e3694148.r84.cf3.rackcdn.com/Myrra_Electronic_transformers_datasheet_7.5W_and_10W.pdf)
+~!Height (-)
+"47206"
+1.1!U 5.1!U 7.1!U 9.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS781LLRTR-050U-T
+D Allegro Microsystems ACS781LLRTR-050U-T, Current Sensor 5 + 2 Tab-Pin, PSOF
+K
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS781-Datsaheet.ashx
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.ACS781LLRTR-050U-T :1 ;Allegro Microsystems ACS781LLRTR-050U-T, Current Sensor 5 + 2 Tab-Pin, PSOF
+ACS781LLRTR050BT
+*STM IC
+*NGS
+*PLB 1="VCC" 2="GND" 3="VOUT" 4="NC_1" 5="IP+" 6="IP-" 7="NC_2"
+*MXP 7
+*DFN ACS781LLRTR-050U-T
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (ACS781LLRTR-050U-T)
+~!Link Datasheet (https://www.allegromicro.com/~/media/Files/Datasheets/ACS781-Datsaheet.ashx)
+~!Height (1.5mm)
+~!3D_Model (ACS781LLRTR-050U-T)
+ACS781LLRTR-050U-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

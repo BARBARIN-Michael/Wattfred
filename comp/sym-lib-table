@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name WattFred-rescue)(type Legacy)(uri ${KIPRJMOD}/WattFred-rescue.lib)(options "")(descr ""))
+  (lib (name 47206)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/47206.lib)(options "")(descr ""))
+  (lib (name 599-0181-007F)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/599-0181-007F.lib)(options "")(descr ""))
+  (lib (name 691256610002)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/691256610002.lib)(options "")(descr "")(disabled))
+  (lib (name ACS781LLRTR-050U-T)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/ACS781LLRTR-050U-T.lib)(options "")(descr ""))
+  (lib (name LL3301FF065QJ)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/LL3301FF065QJ.lib)(options "")(descr ""))
+  (lib (name MIC803-26D2VC3-TR)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/MIC803-26D2VC3-TR.lib)(options "")(descr ""))
+  (lib (name NX2016SA-32M-EXS00A-CS06465)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/NX2016SA-32M-EXS00A-CS06465.lib)(options "")(descr ""))
+  (lib (name S25FL064LABNFI041)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/S25FL064LABNFI041.lib)(options "")(descr ""))
+  (lib (name STM32WB55RGV6)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/STM32WB55RGV6.lib)(options "")(descr ""))
+  (lib (name 691256610004)(type Legacy)(uri ${KIPRJMOD}/comp/libFile/691256610004.lib)(options "")(descr ""))
+)

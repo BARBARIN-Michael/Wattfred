@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "S25FL064LABNFI041"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-15-07:29:40)
+    (mountForm default
+        (footprintRef "SON80P400X400X60-9N")
+        (spec "System")
+    )
+)

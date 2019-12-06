@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1512854"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-21-04:47:50)
+    (utime 2019-04-17-06:41:01)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "599-0181-007F")
+)
+
+
+(pinAssign "ECS_1512854"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-21-04:47:50)
+    (utime 2019-04-17-06:41:01)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1512854")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "599-0181-007F")
+)
+
+
+(part "599-0181-007F"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-02-21-04:47:50)
+    (utime 2019-04-17-06:41:01)
+    (packageRef "599-0181-007F")
+    (pinAssignRef "ECS_1512854")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Standard LEDs - SMD SMD 0805 GREEN")
+    (property "Mouser_Part_Number" "645-599-0181-007F")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=645-599-0181-007F")
+    (property "Manufacturer_Name" "Dialight")
+    (property "Manufacturer_Part_Number" "599-0181-007F")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/599-0181-007F.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

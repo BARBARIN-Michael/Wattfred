@@ -1,0 +1,9 @@
+Manufacturer=MYRRA
+PartNumber=47206
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2017-03-15 11:29:42
+Downloaded=2019-09-08 16:39:33
+3D=N

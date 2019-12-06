@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=691256610002
+PartCategory=Connector
+PackageCategory=Header, Shrouded
+PinCount=4
+Version=1.1
+Released=2017-10-16 09:07:29
+Downloaded=2019-09-08 16:29:50
+3D=N

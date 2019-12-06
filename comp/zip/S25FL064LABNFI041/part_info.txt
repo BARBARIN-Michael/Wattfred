@@ -1,0 +1,9 @@
+Manufacturer=Cypress Semiconductor
+PartNumber=S25FL064LABNFI041
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=2.1
+Released=2019-03-07 16:16:33
+Downloaded=2019-09-08 16:14:48
+3D=Y
